@@ -6,6 +6,7 @@ repo to track dsa progress and consistency for 100 days .
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0042-trapping-rain-water) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -18,6 +19,7 @@ repo to track dsa progress and consistency for 100 days .
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0042-trapping-rain-water) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0486-predict-the-winner) |
 ## Stack
 |  |
