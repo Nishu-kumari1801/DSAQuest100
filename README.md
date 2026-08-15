@@ -5,6 +5,7 @@ repo to track dsa progress and consistency for 100 days .
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0486-predict-the-winner) |
@@ -90,4 +91,8 @@ repo to track dsa progress and consistency for 100 days .
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0486-predict-the-winner) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
