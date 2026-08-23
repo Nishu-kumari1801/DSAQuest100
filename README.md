@@ -69,6 +69,7 @@ repo to track dsa progress and consistency for 100 days .
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0002-add-two-numbers) |
 | [0486-predict-the-winner](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0628-maximum-product-of-three-numbers) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -101,6 +102,7 @@ repo to track dsa progress and consistency for 100 days .
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0002-add-two-numbers) |
 | [0486-predict-the-winner](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
@@ -133,4 +135,8 @@ repo to track dsa progress and consistency for 100 days .
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
