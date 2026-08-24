@@ -13,6 +13,7 @@ repo to track dsa progress and consistency for 100 days .
 | [0628-maximum-product-of-three-numbers](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1052-grumpy-bookstore-owner) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -54,6 +55,7 @@ repo to track dsa progress and consistency for 100 days .
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0387-first-unique-character-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0930-binary-subarrays-with-sum) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## String
 |  |
@@ -119,6 +121,7 @@ repo to track dsa progress and consistency for 100 days .
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1052-grumpy-bookstore-owner) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -126,6 +129,7 @@ repo to track dsa progress and consistency for 100 days .
 ## Prefix Sum
 |  |
 | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1004-max-consecutive-ones-iii) |
 ## Combinatorics
 |  |
