@@ -19,6 +19,7 @@ repo to track dsa progress and consistency for 100 days .
 | [0974-subarray-sums-divisible-by-k](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1052-grumpy-bookstore-owner) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1248-count-number-of-nice-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1590-make-sum-divisible-by-p](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1590-make-sum-divisible-by-p) |
@@ -64,6 +65,7 @@ repo to track dsa progress and consistency for 100 days .
 | [0904-fruit-into-baskets](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1248-count-number-of-nice-subarrays) |
 | [1590-make-sum-divisible-by-p](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1590-make-sum-divisible-by-p) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -85,6 +87,7 @@ repo to track dsa progress and consistency for 100 days .
 | [0486-predict-the-winner](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0628-maximum-product-of-three-numbers) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1248-count-number-of-nice-subarrays) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3536-maximum-product-of-two-digits) |
@@ -135,6 +138,7 @@ repo to track dsa progress and consistency for 100 days .
 | [0930-binary-subarrays-with-sum](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1052-grumpy-bookstore-owner) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1248-count-number-of-nice-subarrays) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Prefix Sum
@@ -145,6 +149,7 @@ repo to track dsa progress and consistency for 100 days .
 | [0930-binary-subarrays-with-sum](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1248-count-number-of-nice-subarrays) |
 | [1590-make-sum-divisible-by-p](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1590-make-sum-divisible-by-p) |
 ## Combinatorics
 |  |
