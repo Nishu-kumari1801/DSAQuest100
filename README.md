@@ -10,6 +10,7 @@ repo to track dsa progress and consistency for 100 days .
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0198-house-robber) |
 | [0486-predict-the-winner](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0486-predict-the-winner) |
+| [0503-next-greater-element-ii](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0525-contiguous-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0628-maximum-product-of-three-numbers) |
@@ -44,11 +45,13 @@ repo to track dsa progress and consistency for 100 days .
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0225-implement-stack-using-queues) |
+| [0503-next-greater-element-ii](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0042-trapping-rain-water) |
+| [0503-next-greater-element-ii](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
