@@ -186,10 +186,12 @@ repo to track dsa progress and consistency for 100 days .
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0100-same-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0100-same-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -198,4 +200,9 @@ repo to track dsa progress and consistency for 100 days .
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0100-same-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0543-diameter-of-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
