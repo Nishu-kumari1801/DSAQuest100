@@ -47,16 +47,19 @@ repo to track dsa progress and consistency for 100 days .
 | [0225-implement-stack-using-queues](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0225-implement-stack-using-queues) |
 | [0503-next-greater-element-ii](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0901-online-stock-span) |
 ## Design
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0225-implement-stack-using-queues) |
+| [0901-online-stock-span](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -175,4 +178,8 @@ repo to track dsa progress and consistency for 100 days .
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0523-continuous-subarray-sum) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
