@@ -7,6 +7,7 @@ repo to track dsa progress and consistency for 100 days .
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0042-trapping-rain-water) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0198-house-robber) |
 | [0486-predict-the-winner](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0486-predict-the-winner) |
@@ -68,6 +69,7 @@ repo to track dsa progress and consistency for 100 days .
 ## Hash Table
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0387-first-unique-character-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0525-contiguous-array) |
@@ -186,6 +188,7 @@ repo to track dsa progress and consistency for 100 days .
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0100-same-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -200,9 +203,14 @@ repo to track dsa progress and consistency for 100 days .
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0100-same-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0543-diameter-of-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0543-diameter-of-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
