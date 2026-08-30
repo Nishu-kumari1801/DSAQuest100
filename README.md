@@ -223,4 +223,8 @@ repo to track dsa progress and consistency for 100 days .
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
