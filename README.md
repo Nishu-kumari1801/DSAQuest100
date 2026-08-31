@@ -182,6 +182,7 @@ repo to track dsa progress and consistency for 100 days .
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0002-add-two-numbers) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -195,21 +196,25 @@ repo to track dsa progress and consistency for 100 days .
 | ------- |
 | [0100-same-tree](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0543-diameter-of-binary-tree](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0100-same-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0543-diameter-of-binary-tree](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0100-same-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0543-diameter-of-binary-tree](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0543-diameter-of-binary-tree) |
 ## DP on Trees
 |  |
