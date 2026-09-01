@@ -10,6 +10,7 @@ repo to track dsa progress and consistency for 100 days .
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0200-number-of-islands) |
 | [0486-predict-the-winner](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0486-predict-the-winner) |
 | [0503-next-greater-element-ii](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0523-continuous-subarray-sum) |
@@ -203,6 +204,7 @@ repo to track dsa progress and consistency for 100 days .
 | ------- |
 | [0100-same-tree](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0100-same-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0200-number-of-islands](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0200-number-of-islands) |
 | [0543-diameter-of-binary-tree](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
@@ -210,6 +212,7 @@ repo to track dsa progress and consistency for 100 days .
 | ------- |
 | [0100-same-tree](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0100-same-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0200-number-of-islands](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
@@ -229,6 +232,7 @@ repo to track dsa progress and consistency for 100 days .
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0547-number-of-provinces) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Database
@@ -239,4 +243,8 @@ repo to track dsa progress and consistency for 100 days .
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0547-number-of-provinces) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
