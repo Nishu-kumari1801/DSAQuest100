@@ -204,11 +204,13 @@ repo to track dsa progress and consistency for 100 days .
 | [0100-same-tree](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0100-same-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0543-diameter-of-binary-tree](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0100-same-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0547-number-of-provinces](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
@@ -227,9 +229,14 @@ repo to track dsa progress and consistency for 100 days .
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0547-number-of-provinces) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Database
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0584-find-customer-referee) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
