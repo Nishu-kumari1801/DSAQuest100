@@ -209,6 +209,7 @@ repo to track dsa progress and consistency for 100 days .
 | [0543-diameter-of-binary-tree](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0785-is-graph-bipartite) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -217,6 +218,7 @@ repo to track dsa progress and consistency for 100 days .
 | [0200-number-of-islands](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0785-is-graph-bipartite) |
 ## Binary Tree
 |  |
 | ------- |
@@ -237,6 +239,7 @@ repo to track dsa progress and consistency for 100 days .
 | ------- |
 | [0200-number-of-islands](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0785-is-graph-bipartite) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Database
 |  |
@@ -246,9 +249,18 @@ repo to track dsa progress and consistency for 100 days .
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0785-is-graph-bipartite) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0733-flood-fill) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
