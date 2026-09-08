@@ -77,6 +77,7 @@ repo to track dsa progress and consistency for 100 days .
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0126-word-ladder-ii](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0127-word-ladder) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0387-first-unique-character-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0523-continuous-subarray-sum) |
@@ -91,6 +92,7 @@ repo to track dsa progress and consistency for 100 days .
 ## String
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0127-word-ladder) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0387-first-unique-character-in-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -219,6 +221,7 @@ repo to track dsa progress and consistency for 100 days .
 | ------- |
 | [0100-same-tree](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0100-same-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0126-word-ladder-ii](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0207-course-schedule) |
@@ -292,5 +295,10 @@ repo to track dsa progress and consistency for 100 days .
 ## Bidirectional Search
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0127-word-ladder) |
+## Backtracking
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0126-word-ladder-ii) |
 <!---LeetCode Topics End-->
