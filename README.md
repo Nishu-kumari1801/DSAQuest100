@@ -80,6 +80,7 @@ repo to track dsa progress and consistency for 100 days .
 | [0126-word-ladder-ii](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0127-word-ladder) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0424-longest-repeating-character-replacement) |
 | [0523-continuous-subarray-sum](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0525-contiguous-array) |
 | [0904-fruit-into-baskets](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0904-fruit-into-baskets) |
@@ -95,6 +96,7 @@ repo to track dsa progress and consistency for 100 days .
 | [0126-word-ladder-ii](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0127-word-ladder) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0424-longest-repeating-character-replacement) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -158,6 +160,7 @@ repo to track dsa progress and consistency for 100 days .
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0930-binary-subarrays-with-sum) |
