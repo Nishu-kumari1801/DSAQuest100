@@ -208,6 +208,7 @@ repo to track dsa progress and consistency for 100 days .
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0543-diameter-of-binary-tree](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0543-diameter-of-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -220,6 +221,7 @@ repo to track dsa progress and consistency for 100 days .
 | [0733-flood-fill](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0802-find-eventual-safe-states) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -240,6 +242,7 @@ repo to track dsa progress and consistency for 100 days .
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0543-diameter-of-binary-tree](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0543-diameter-of-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## DP on Trees
 |  |
 | ------- |
