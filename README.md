@@ -32,6 +32,7 @@ repo to track dsa progress and consistency for 100 days .
 | [1631-path-with-minimum-effort](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1631-path-with-minimum-effort) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3483-unique-3-digit-even-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
@@ -91,6 +92,7 @@ repo to track dsa progress and consistency for 100 days .
 | [1248-count-number-of-nice-subarrays](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1248-count-number-of-nice-subarrays) |
 | [1590-make-sum-divisible-by-p](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1590-make-sum-divisible-by-p) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
@@ -127,6 +129,7 @@ repo to track dsa progress and consistency for 100 days .
 ## Enumeration
 |  |
 | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3483-unique-3-digit-even-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Sorting
 |  |
@@ -151,6 +154,7 @@ repo to track dsa progress and consistency for 100 days .
 | ------- |
 | [0002-add-two-numbers](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0002-add-two-numbers) |
 | [0486-predict-the-winner](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0486-predict-the-winner) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3483-unique-3-digit-even-numbers) |
 ## Game Theory
 |  |
 | ------- |
