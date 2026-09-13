@@ -32,6 +32,7 @@ repo to track dsa progress and consistency for 100 days .
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1590-make-sum-divisible-by-p](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1590-make-sum-divisible-by-p) |
 | [1631-path-with-minimum-effort](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1631-path-with-minimum-effort) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3483-unique-3-digit-even-numbers) |
@@ -64,6 +65,7 @@ repo to track dsa progress and consistency for 100 days .
 | [0901-online-stock-span](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0907-sum-of-subarray-minimums) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -72,6 +74,7 @@ repo to track dsa progress and consistency for 100 days .
 | [0739-daily-temperatures](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0907-sum-of-subarray-minimums) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Design
 |  |
 | ------- |
