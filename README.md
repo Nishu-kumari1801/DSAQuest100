@@ -40,6 +40,7 @@ repo to track dsa progress and consistency for 100 days .
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0042-trapping-rain-water) |
+| [0844-backspace-string-compare](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0844-backspace-string-compare) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -57,6 +58,7 @@ repo to track dsa progress and consistency for 100 days .
 | [0225-implement-stack-using-queues](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0225-implement-stack-using-queues) |
 | [0503-next-greater-element-ii](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0907-sum-of-subarray-minimums) |
 ## Monotonic Stack
@@ -102,6 +104,7 @@ repo to track dsa progress and consistency for 100 days .
 | [0127-word-ladder](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0127-word-ladder) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0424-longest-repeating-character-replacement) |
+| [0844-backspace-string-compare](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0844-backspace-string-compare) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -334,4 +337,8 @@ repo to track dsa progress and consistency for 100 days .
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0787-cheapest-flights-within-k-stops) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
