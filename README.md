@@ -49,6 +49,7 @@ repo to track dsa progress and consistency for 100 days .
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0198-house-robber) |
 | [0486-predict-the-winner](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0486-predict-the-winner) |
@@ -130,6 +131,7 @@ repo to track dsa progress and consistency for 100 days .
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0628-maximum-product-of-three-numbers) |
@@ -365,4 +367,8 @@ repo to track dsa progress and consistency for 100 days .
 |  |
 | ------- |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
