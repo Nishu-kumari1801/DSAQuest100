@@ -317,6 +317,7 @@ repo to track dsa progress and consistency for 100 days .
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0584-find-customer-referee) |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 ## Graph Theory
 |  |
 | ------- |
