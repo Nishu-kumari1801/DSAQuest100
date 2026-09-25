@@ -75,6 +75,7 @@ repo to track dsa progress and consistency for 100 days .
 | [0901-online-stock-span](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0907-sum-of-subarray-minimums) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1096-brace-expansion-ii](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1096-brace-expansion-ii) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Monotonic Stack
 |  |
@@ -110,6 +111,7 @@ repo to track dsa progress and consistency for 100 days .
 | [0904-fruit-into-baskets](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1096-brace-expansion-ii](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1096-brace-expansion-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1248-count-number-of-nice-subarrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -127,6 +129,7 @@ repo to track dsa progress and consistency for 100 days .
 | [0771-jewels-and-stones](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1096-brace-expansion-ii](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -172,6 +175,7 @@ repo to track dsa progress and consistency for 100 days .
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0628-maximum-product-of-three-numbers) |
+| [1096-brace-expansion-ii](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1096-brace-expansion-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -290,6 +294,7 @@ repo to track dsa progress and consistency for 100 days .
 | [0785-is-graph-bipartite](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0802-find-eventual-safe-states) |
+| [1096-brace-expansion-ii](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1096-brace-expansion-ii) |
 | [1631-path-with-minimum-effort](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
@@ -369,6 +374,7 @@ repo to track dsa progress and consistency for 100 days .
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0126-word-ladder-ii) |
+| [1096-brace-expansion-ii](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1096-brace-expansion-ii) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
