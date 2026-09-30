@@ -79,6 +79,7 @@ repo to track dsa progress and consistency for 100 days .
 | [0907-sum-of-subarray-minimums](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0907-sum-of-subarray-minimums) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1096-brace-expansion-ii](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1096-brace-expansion-ii) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Monotonic Stack
@@ -135,6 +136,7 @@ repo to track dsa progress and consistency for 100 days .
 | [0844-backspace-string-compare](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1096-brace-expansion-ii](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1096-brace-expansion-ii) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -417,6 +419,7 @@ repo to track dsa progress and consistency for 100 days .
 ## Bracket Sequences
 |  |
 | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
