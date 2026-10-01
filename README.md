@@ -70,6 +70,7 @@ repo to track dsa progress and consistency for 100 days .
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0225-implement-stack-using-queues) |
 | [0503-next-greater-element-ii](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0503-next-greater-element-ii) |
@@ -128,6 +129,7 @@ repo to track dsa progress and consistency for 100 days .
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0020-valid-parentheses) |
 | [0126-word-ladder-ii](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0127-word-ladder) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0387-first-unique-character-in-a-string) |
@@ -419,6 +421,7 @@ repo to track dsa progress and consistency for 100 days .
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
