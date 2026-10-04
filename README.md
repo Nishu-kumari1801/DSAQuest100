@@ -61,6 +61,7 @@ repo to track dsa progress and consistency for 100 days .
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0198-house-robber) |
 | [0486-predict-the-winner](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0907-sum-of-subarray-minimums) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -77,6 +78,7 @@ repo to track dsa progress and consistency for 100 days .
 | [0042-trapping-rain-water](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0225-implement-stack-using-queues) |
 | [0503-next-greater-element-ii](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0901-online-stock-span) |
@@ -139,6 +141,7 @@ repo to track dsa progress and consistency for 100 days .
 | [0127-word-ladder](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0127-word-ladder) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0424-longest-repeating-character-replacement) |
+| [0678-valid-parenthesis-string](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0678-valid-parenthesis-string) |
 | [0771-jewels-and-stones](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -414,6 +417,7 @@ repo to track dsa progress and consistency for 100 days .
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0678-valid-parenthesis-string) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Memoization
@@ -430,6 +434,7 @@ repo to track dsa progress and consistency for 100 days .
 | [0020-valid-parentheses](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
