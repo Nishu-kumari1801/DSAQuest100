@@ -7,6 +7,7 @@ repo to track dsa progress and consistency for 100 days .
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0198-house-robber) |
@@ -58,6 +59,7 @@ repo to track dsa progress and consistency for 100 days .
 | [0032-longest-valid-parentheses](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0198-house-robber) |
 | [0486-predict-the-winner](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0486-predict-the-winner) |
@@ -76,6 +78,7 @@ repo to track dsa progress and consistency for 100 days .
 | [0020-valid-parentheses](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0085-maximal-rectangle) |
 | [0225-implement-stack-using-queues](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0225-implement-stack-using-queues) |
 | [0503-next-greater-element-ii](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0678-valid-parenthesis-string) |
@@ -95,6 +98,7 @@ repo to track dsa progress and consistency for 100 days .
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0901-online-stock-span) |
@@ -361,6 +365,7 @@ repo to track dsa progress and consistency for 100 days .
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0835-image-overlap) |
