@@ -145,6 +145,7 @@ repo to track dsa progress and consistency for 100 days .
 | [0020-valid-parentheses](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0032-longest-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0058-length-of-last-word) |
 | [0126-word-ladder-ii](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0127-word-ladder) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0387-first-unique-character-in-a-string) |
