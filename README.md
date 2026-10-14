@@ -191,6 +191,7 @@ repo to track dsa progress and consistency for 100 days .
 | [3525-find-x-value-of-array-ii](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3525-find-x-value-of-array-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3871-count-commas-in-range-ii](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3871-count-commas-in-range-ii) |
 ## Bit Manipulation
 |  |
@@ -440,6 +441,7 @@ repo to track dsa progress and consistency for 100 days .
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Memoization
 |  |
