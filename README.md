@@ -5,6 +5,7 @@ repo to track dsa progress and consistency for 100 days .
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0085-maximal-rectangle) |
@@ -120,6 +121,7 @@ repo to track dsa progress and consistency for 100 days .
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0127-word-ladder) |
