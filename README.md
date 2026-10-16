@@ -6,6 +6,7 @@ repo to track dsa progress and consistency for 100 days .
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0085-maximal-rectangle) |
@@ -244,6 +245,7 @@ repo to track dsa progress and consistency for 100 days .
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0033-search-in-rotated-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0349-intersection-of-two-arrays) |
 | [1004-max-consecutive-ones-iii](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1004-max-consecutive-ones-iii) |
@@ -352,6 +354,7 @@ repo to track dsa progress and consistency for 100 days .
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Union-Find
 |  |
