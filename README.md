@@ -28,6 +28,7 @@ repo to track dsa progress and consistency for 100 days .
 | [0907-sum-of-subarray-minimums](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0994-rotting-oranges](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1052-grumpy-bookstore-owner) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1248-count-number-of-nice-subarrays) |
@@ -337,6 +338,7 @@ repo to track dsa progress and consistency for 100 days .
 | [0785-is-graph-bipartite](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0802-find-eventual-safe-states) |
+| [0994-rotting-oranges](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0994-rotting-oranges) |
 | [1096-brace-expansion-ii](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1096-brace-expansion-ii) |
 | [1631-path-with-minimum-effort](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
@@ -384,6 +386,7 @@ repo to track dsa progress and consistency for 100 days .
 | [0200-number-of-islands](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0835-image-overlap) |
+| [0994-rotting-oranges](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0994-rotting-oranges) |
 | [1631-path-with-minimum-effort](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1631-path-with-minimum-effort) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Graph Coloring
