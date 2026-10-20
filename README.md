@@ -57,6 +57,7 @@ repo to track dsa progress and consistency for 100 days .
 | [0042-trapping-rain-water](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0042-trapping-rain-water) |
 | [0349-intersection-of-two-arrays](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0349-intersection-of-two-arrays) |
 | [0844-backspace-string-compare](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0844-backspace-string-compare) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Dynamic Programming
 |  |
@@ -293,6 +294,7 @@ repo to track dsa progress and consistency for 100 days .
 | ------- |
 | [0002-add-two-numbers](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0002-add-two-numbers) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Pigeonhole Principle
 |  |
 | ------- |
