@@ -51,6 +51,7 @@ repo to track dsa progress and consistency for 100 days .
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Two Pointers
 |  |
 | ------- |
