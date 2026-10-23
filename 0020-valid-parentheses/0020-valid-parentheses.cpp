@@ -9,7 +9,7 @@ public:
                 if((s[i]==')' && st.top()=='(')
                    || (s[i]=='}' && st.top()=='{')
                    ||(s[i]==']' && st.top()=='[')) st.pop();
-                   else return false;
+                else return false;
             }
         }
         return st.empty();
