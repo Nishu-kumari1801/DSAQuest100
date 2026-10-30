@@ -177,6 +177,7 @@ repo to track dsa progress and consistency for 100 days .
 | [3498-reverse-degree-of-a-string](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Counting
 |  |
 | ------- |
@@ -232,6 +233,7 @@ repo to track dsa progress and consistency for 100 days .
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1631-path-with-minimum-effort) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Counting Sort
 |  |
 | ------- |
@@ -383,6 +385,7 @@ repo to track dsa progress and consistency for 100 days .
 | [0785-is-graph-bipartite](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0802-find-eventual-safe-states) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Matrix
 |  |
 | ------- |
@@ -437,6 +440,7 @@ repo to track dsa progress and consistency for 100 days .
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0787-cheapest-flights-within-k-stops) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Simulation
 |  |
 | ------- |
