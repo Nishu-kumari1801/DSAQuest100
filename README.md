@@ -15,6 +15,7 @@ repo to track dsa progress and consistency for 100 days .
 | [0198-house-robber](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0200-number-of-islands) |
 | [0349-intersection-of-two-arrays](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0349-intersection-of-two-arrays) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0486-predict-the-winner) |
 | [0503-next-greater-element-ii](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0523-continuous-subarray-sum) |
@@ -188,6 +189,7 @@ repo to track dsa progress and consistency for 100 days .
 | ------- |
 | [0002-add-two-numbers](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0070-climbing-stairs) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0628-maximum-product-of-three-numbers) |
