@@ -52,6 +52,7 @@ repo to track dsa progress and consistency for 100 days .
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Two Pointers
 |  |
@@ -204,6 +205,7 @@ repo to track dsa progress and consistency for 100 days .
 | [3536-maximum-product-of-two-digits](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3871-count-commas-in-range-ii](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3871-count-commas-in-range-ii) |
 ## Bit Manipulation
 |  |
