@@ -46,6 +46,7 @@ repo to track dsa progress and consistency for 100 days .
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3483-unique-3-digit-even-numbers) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3525-find-x-value-of-array-ii) |
@@ -81,6 +82,7 @@ repo to track dsa progress and consistency for 100 days .
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3524-find-x-value-of-array-i) |
 ## Stack
 |  |
@@ -149,6 +151,7 @@ repo to track dsa progress and consistency for 100 days .
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3483-unique-3-digit-even-numbers) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
@@ -199,6 +202,7 @@ repo to track dsa progress and consistency for 100 days .
 | [1401-circle-and-rectangle-overlapping](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3525-find-x-value-of-array-ii) |
@@ -237,6 +241,7 @@ repo to track dsa progress and consistency for 100 days .
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1631-path-with-minimum-effort) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Counting Sort
 |  |
@@ -278,6 +283,7 @@ repo to track dsa progress and consistency for 100 days .
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Prefix Sum
 |  |
 | ------- |
