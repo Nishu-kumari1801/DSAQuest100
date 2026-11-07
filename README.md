@@ -7,6 +7,7 @@ repo to track dsa progress and consistency for 100 days .
 | ------- |
 | [0001-two-sum](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0075-sort-colors) |
@@ -62,6 +63,7 @@ repo to track dsa progress and consistency for 100 days .
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -478,6 +480,7 @@ repo to track dsa progress and consistency for 100 days .
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0011-container-with-most-water) |
 | [0678-valid-parenthesis-string](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0678-valid-parenthesis-string) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
