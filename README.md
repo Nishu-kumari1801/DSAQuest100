@@ -202,6 +202,7 @@ repo to track dsa progress and consistency for 100 days .
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0002-add-two-numbers) |
+| [0069-sqrtx](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0070-climbing-stairs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0486-predict-the-winner) |
@@ -275,6 +276,7 @@ repo to track dsa progress and consistency for 100 days .
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0349-intersection-of-two-arrays) |
 | [1004-max-consecutive-ones-iii](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1004-max-consecutive-ones-iii) |
@@ -522,4 +524,8 @@ repo to track dsa progress and consistency for 100 days .
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0075-sort-colors) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
