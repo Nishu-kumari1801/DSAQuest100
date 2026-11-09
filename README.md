@@ -29,6 +29,7 @@ repo to track dsa progress and consistency for 100 days .
 | [0733-flood-fill](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0739-daily-temperatures) |
 | [0835-image-overlap](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0835-image-overlap) |
+| [0875-koko-eating-bananas](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0930-binary-subarrays-with-sum) |
@@ -279,6 +280,7 @@ repo to track dsa progress and consistency for 100 days .
 | [0069-sqrtx](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0349-intersection-of-two-arrays) |
+| [0875-koko-eating-bananas](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1004-max-consecutive-ones-iii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
