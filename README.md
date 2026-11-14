@@ -53,6 +53,7 @@ repo to track dsa progress and consistency for 100 days .
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3364-minimum-positive-sum-subarray) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -306,6 +307,7 @@ repo to track dsa progress and consistency for 100 days .
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3364-minimum-positive-sum-subarray) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Prefix Sum
 |  |
@@ -319,6 +321,7 @@ repo to track dsa progress and consistency for 100 days .
 | [1248-count-number-of-nice-subarrays](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1248-count-number-of-nice-subarrays) |
 | [1590-make-sum-divisible-by-p](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1590-make-sum-divisible-by-p) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3364-minimum-positive-sum-subarray) |
 ## Combinatorics
 |  |
 | ------- |
