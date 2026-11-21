@@ -54,6 +54,7 @@ repo to track dsa progress and consistency for 100 days .
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3364-minimum-positive-sum-subarray) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -167,6 +168,7 @@ repo to track dsa progress and consistency for 100 days .
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -198,6 +200,7 @@ repo to track dsa progress and consistency for 100 days .
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3498-reverse-degree-of-a-string](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -360,6 +363,7 @@ repo to track dsa progress and consistency for 100 days .
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0543-diameter-of-binary-tree](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0543-diameter-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -375,6 +379,7 @@ repo to track dsa progress and consistency for 100 days .
 | [0802-find-eventual-safe-states](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0802-find-eventual-safe-states) |
 | [1631-path-with-minimum-effort](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1631-path-with-minimum-effort) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Breadth-First Search
 |  |
 | ------- |
