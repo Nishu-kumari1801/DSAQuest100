@@ -72,6 +72,7 @@ repo to track dsa progress and consistency for 100 days .
 | [0011-container-with-most-water](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0075-sort-colors) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0349-intersection-of-two-arrays) |
@@ -151,6 +152,7 @@ repo to track dsa progress and consistency for 100 days .
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0127-word-ladder) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0160-intersection-of-two-linked-lists) |
 | [0349-intersection-of-two-arrays](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0424-longest-repeating-character-replacement) |
@@ -345,6 +347,7 @@ repo to track dsa progress and consistency for 100 days .
 | ------- |
 | [0002-add-two-numbers](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0002-add-two-numbers) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0206-reverse-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Pigeonhole Principle
