@@ -349,6 +349,7 @@ repo to track dsa progress and consistency for 100 days .
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0206-reverse-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0328-odd-even-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Pigeonhole Principle
 |  |
