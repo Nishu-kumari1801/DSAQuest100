@@ -284,6 +284,7 @@ repo to track dsa progress and consistency for 100 days .
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0486-predict-the-winner) |
@@ -352,6 +353,7 @@ repo to track dsa progress and consistency for 100 days .
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0024-swap-nodes-in-pairs) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0142-linked-list-cycle-ii](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0160-intersection-of-two-linked-lists) |
