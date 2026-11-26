@@ -1,14 +1,14 @@
 class Solution {
 public:
-    int canAliceWin(int n) {
-        if (n < 10) return 0;
-        if (n < 19) return 1;
-        if (n < 27) return 0;
-        if (n < 34) return 1;
-        if (n < 40) return 0;
-        if (n < 45) return 1;
-        if (n < 49) return 0;
+    bool canAliceWin(int n) {
+        bool t = 0;
+        int pile = 10;
 
-        return 1;
+        while (n >= pile) {
+            n -= pile--;
+            t ^= 1;
+        }
+
+        return t;
     }
 };
