@@ -232,6 +232,7 @@ repo to track dsa progress and consistency for 100 days .
 | [1401-circle-and-rectangle-overlapping](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3360-stone-removal-game](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3360-stone-removal-game) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3524-find-x-value-of-array-i) |
@@ -514,6 +515,7 @@ repo to track dsa progress and consistency for 100 days .
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/0844-backspace-string-compare) |
+| [3360-stone-removal-game](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3498-reverse-degree-of-a-string) |
 ## Geometry
 |  |
