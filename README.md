@@ -66,6 +66,7 @@ repo to track dsa progress and consistency for 100 days .
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -268,6 +269,7 @@ repo to track dsa progress and consistency for 100 days .
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3536-maximum-product-of-two-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -276,6 +278,7 @@ repo to track dsa progress and consistency for 100 days .
 | [1631-path-with-minimum-effort](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/1631-path-with-minimum-effort) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Counting Sort
 |  |
@@ -534,6 +537,7 @@ repo to track dsa progress and consistency for 100 days .
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Nishu-kumari1801/DSAQuest100/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Memoization
 |  |
 | ------- |
